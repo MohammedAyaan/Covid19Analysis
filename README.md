@@ -1,4 +1,4 @@
-# Major-Project---Covid19Analysis
+# Major-Project-Covid19Analysis
 Covid19 Analysis and forecasting using FbProphet
 Link for datasets - https://drive.google.com/drive/folders/1pUKP0G5_5Mj2HyiaAoHErmIcDvoQmhtc?usp=sharing
 
